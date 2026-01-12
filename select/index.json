@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "モザイクロール (Reloaded)",
+  "base_artist": "Leo/need",
+  "createdAt": "2026-01-12T17:00:23.796433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_モザイクロール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27 feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_モザイクロール_DECO_27_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モザイクロール(カバー)",
+      "artist": "いかさん",
+      "has_synced": false,
+      "path": "select/03_モザイクロール(カバー)_いかさん.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "いかさん",
+      "has_synced": false,
+      "path": "select/04_モザイクロール_いかさん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27 feat. marina",
+      "has_synced": false,
+      "path": "select/05_モザイクロール_DECO_27_feat._marina.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO＊27 feat. GUMI",
+      "has_synced": true,
+      "path": "select/06_モザイクロール_DECO_27_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO[↑]*27",
+      "has_synced": true,
+      "path": "select/07_モザイクロール_DECO[↑]_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27; いかさん",
+      "has_synced": false,
+      "path": "select/08_モザイクロール_DECO_27;_いかさん.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "モザイクロール (Reloaded)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_モザイクロール_(Reloaded)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27 feat. GUMI",
+      "has_synced": false,
+      "path": "select/10_モザイクロール_DECO_27_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "DECO*27, GUMI",
+      "has_synced": true,
+      "path": "select/11_モザイクロール_DECO_27,_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "モザイクロール - Reloaded",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_モザイクロール_-_Reloaded_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "モザイクロール (Reloaded) / Mozaik Role (Reloaded)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/13_モザイクロール_(Reloaded)___Mozaik_Role_(Reloaded)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "モザイクロール",
+      "artist": "ぐるたみん",
+      "has_synced": false,
+      "path": "select/14_モザイクロール_ぐるたみん.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "モザイクロール (kous DR Remix)",
+      "artist": "Deco*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/15_モザイクロール_(kous_DR_Remix)_Deco_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "モザイクロール feat. marina",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/16_モザイクロール_feat._marina_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "モザイクロール (kous DR Remix)",
+      "artist": "DECO*27 feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/17_モザイクロール_(kous_DR_Remix)_DECO_27_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "モザイクロール(kous DR Remix) feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/18_モザイクロール(kous_DR_Remix)_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モザイクロール (Reloaded) (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&KAITO)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_モザイクロール_(Reloaded)_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&KAITO)_Leo_need.txt"
+    }
+  ]
+}
